@@ -17,4 +17,4 @@ Using GCC compiler:
 gcc main.c -o student_management; ./student_management
 ```
 # Information
-This program is a project of a "Programming & Problem Solving in C" course.
+This program is a project of "COMPUTER AND PROGRAMMING" course in Birzeit University.
