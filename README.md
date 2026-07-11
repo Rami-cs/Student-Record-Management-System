@@ -11,7 +11,7 @@ A simple Student Records Management System written in C, uses binary file as sto
 
 # HOW TO COMPILE AND RUN #
 
-You can use the .exe file or you can compile the .c file.
+You can run the .exe file or you can compile the .c file and run it.
 Using GCC compiler: 
 ```bash
 gcc main.c -o student_management; ./student_management
