@@ -1,6 +1,6 @@
 Student Records Management System (CLI)
 
-A simple Student Records Management System written in C, and uses binary files as storing method.
+A simple Student Records Management System written in C, uses binary files as storing method.
 
 # FEATURES #
 
