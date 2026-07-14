@@ -5,7 +5,7 @@ A simple Student Records Management System written in C, uses a binary file as s
 # FEATURES 
 
 - Add Students
-- Remove Students
+- Remove Student
 - Search For Student
 - Display Current Students' Data
 
