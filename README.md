@@ -16,5 +16,5 @@ Using GCC compiler:
 ```bash
 gcc main.c -o student_management; ./student_management
 ```
-# Acknowledgement
+# Note
 This program is my project of **COMPUTER AND PROGRAMMING** course in Birzeit University.
